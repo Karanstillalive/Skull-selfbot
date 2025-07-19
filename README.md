@@ -1,7 +1,9 @@
-Howdy? I'm back after a short break and here's what we got here is the working or error free version of lifestyle selfbot, you can use it simply just by a simple command "python3 skull.py". Btw sorry cause I forgot which one is the matching requirements.txt file from my Mobile's storage. So, yeah make sure to import required node packages for it if you're using an host. hmm also it's an single tokend selfbot so make sure your discord account do not get banned. 
+Howdy? I'm back after a short break and here's what we got here is the working or error free version of lifestyle selfbot, you can use it simply just by a simple command `python3 skull.py`. Btw sorry cause I forgot which one is the matching requirements.txt file from my Mobile's storage. So, yeah make sure to import required node packages for it if you're using an host. hmm also it's an single tokend selfbot so make sure your discord account do not get banned. 
 All rights reserved to it's real owners dm me on @.daddyyoman for removal or queries!
 
 Here's a preview of it's help menu:-
+
+```py
 - `.stream <text>`: sets a streaming status
 - `88`: autopressure
 - `0`: Turn Auto Skull On Or off
@@ -19,3 +21,4 @@ Here's a preview of it's help menu:-
 - `,`: deletes your messages sent within 20 seconds, dont ask why i made this
 - `.c <number>`: deletes the number of messages (from yourself)
 - `.delroles`: deletes every role from a server (will most likely cause you to get fucked by bleed 
+```
