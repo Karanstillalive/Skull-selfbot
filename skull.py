@@ -362,6 +362,6 @@ async def on_message(message):
         await message.channel.send(help_message)
 
 
-TOKEN = "MTA0Mjc4NDA3OTEyMjI3MjM4Ng.GA6sB9.-CSYDObzFgyDkAUcrFULTc63fWKp0GO1x2zjJs"  # TOKEN HERE
+TOKEN = "Your_token_here"  # TOKEN HERE
 
 client.run(TOKEN, bot=False)
